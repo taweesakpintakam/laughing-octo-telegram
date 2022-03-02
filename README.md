@@ -6,3 +6,4 @@ Start_Fullnode.
 sycn.farmmeer/pools/p2p
 Start_wallet.
 # runs.p1/p2.temmps.
+Start_Fullnode.js sycn.farmmeer/pools/p2p Start_wallet
